@@ -22,18 +22,18 @@ Alien Invasion is a classic game where aliens move on the screen from left to ri
 
 1) pygame- This module is used for developing the games in Python. Methods used include image.load(), font.SysFont(), display.flip(), etc.
 
-PyGame Org: ![PyGame Org](https://www.pygame.org/)
+PyGame Org: [PyGame Org](https://www.pygame.org/)
 
-PyGame Documentation: ![PyGame Doc](https://www.pygame.org/docs/)
+PyGame Documentation: [PyGame Doc](https://www.pygame.org/docs/)
 
 2) sprite- This class belongs to PyGame and is used for grouping similar objects. There are several useful methods associated with this module such as Group(), spritecollideany(), groupcollide(), etc.
 
-Sprite Documentation: ![Sprite Doc](http://www.pygame.org/docs/ref/sprite.html)
+Sprite Documentation: [Sprite Doc](http://www.pygame.org/docs/ref/sprite.html)
 
 3) sys- This module is used for managing the system. For example, sys.exit() is used for closing the current application (program).
 
-Sys Documentation: ![Sys Doc](https://docs.python.org/3/library/sys.html)
+Sys Documentation: [Sys Doc](https://docs.python.org/3/library/sys.html)
 
 4) time- This module is used for pausing the game when the ship loses one lifeline. 'sleep()' accepts an argument in seconds to produce a delay.
 
-Time Documentation: ![Time Doc](https://docs.python.org/3/library/time.html)
+Time Documentation: [Time Doc](https://docs.python.org/3/library/time.html)
