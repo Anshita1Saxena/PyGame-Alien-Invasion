@@ -37,3 +37,28 @@ Sys Documentation: [Sys Doc](https://docs.python.org/3/library/sys.html)
 4) time- This module is used for pausing the game when the ship loses one lifeline. 'sleep()' accepts an argument in seconds to produce a delay.
 
 Time Documentation: [Time Doc](https://docs.python.org/3/library/time.html)
+
+## Environment Details
+
+This project is developed and run on the following platform:
+
+1. Language:- Python 3.9.9
+2. Operating System:- Windows 10
+3. Libraries:- PyGame 2.1.2
+4. IDE:- PyCharm
+
+This project uses an object-oriented approach and supports moving the object left, right, and up directions along with the sound effect of an explosion at the time of collision of aliens to the ship. The sound effect is the enhancement done on the original project. Appreciate Eric Matthes for recording this notion in his book for future enhancements on the project.
+
+## Working Details
+
+This code can be pulled using version control and imported in an IDE or can be run independently in any machine having Python 3.X. To play this game, use the following command to run or run the `alien_invasion_settings.py` code via IDE:
+
+`python3 alien_invasion_settings.py`
+
+To run this program for an indefinite time, you can use `nohup` command:
+
+`nohup python3 alien_invasion_settings.py &`
+
+After the game (application) is up and running, press the `Play` button to start playing the game. 
+
+Happy Playing!
